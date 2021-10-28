@@ -5,7 +5,7 @@
 
 
 ## Core Algorithm: Array arr[] of size n:
-### Repeat for i = 0 : i = 31
+### Repeat for i = 0 --> i = 31
   1. *Compact* all the elements of arr[] array based on following *predicate*: Check if bit-i is 1
   2. Produce a *Blelloch Scan* of the Compact array
   3. Use the scan array as *Scatter-Addresses* to do the *Split For Bit-i*:   
