@@ -15,8 +15,9 @@
         
         
 ### References: 
-  1. This paper by Ha, Krüger, and Silva : https://vgc.poly.edu/~csilva/papers/cgf.pdf
-  2. Udacity CS344: Intro to Parallel Programming (http://www.udacity.com/wiki/CS344)
-  3. Bozidar, Darko & Dobravec, Tomaž. (2015). Comparison of parallel sorting algorithms. (https://www.researchgate.net/publication/283761857_Comparison_of_parallel_sorting_algorithms)
+  1. The paper by Ha, Krüger, and Silva : https://vgc.poly.edu/~csilva/papers/cgf.pdf
+  2. Blelloch Scan Implementation from : https://github.com/mark-poscablo  , (https://github.com/mark-poscablo/gpu-prefix-sum) 
+  3. Udacity CS344: Intro to Parallel Programming (http://www.udacity.com/wiki/CS344)
+  4. Bozidar, Darko & Dobravec, Tomaž. (2015). Comparison of parallel sorting algorithms. (https://www.researchgate.net/publication/283761857_Comparison_of_parallel_sorting_algorithms)
         
 
