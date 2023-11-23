@@ -2,7 +2,7 @@
 
 
 ## CUDA Implementation of 2-Way Radix Sort for integers
-
+#### MAIN: "kernel.cu"
 
 ## Core Algorithm: Array arr[] of size n:
 ### Repeat for i = 0 --> i = 31
@@ -27,5 +27,4 @@
 
 # IMPORTANT NOTE:
   #### * Please refer "DESCRIPTION-RADIX-SORT.pdf" document for DETAILED EXPLANATION of the Project
-  #### * "kernel.cu" is the MAIN SOURCE CODE FILE
   #### * Open "RadixSort.sln" to open the entire project
